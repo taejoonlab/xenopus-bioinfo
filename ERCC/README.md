@@ -9,7 +9,7 @@
 * https://pub.taejoonlab.org/repo/xenopus/workshop/ERCC92/
 You can download them using `wget` as below:
 ```bash
- $ wget -r https://pub.taejoonlab.org/repo/xenopus/workshop/ERCC92/
+ $ wget -r --no-parent https://pub.taejoonlab.org/repo/xenopus/workshop/ERCC92/
 ```
 
 ## References
